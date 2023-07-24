@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Standard",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
